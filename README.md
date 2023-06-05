@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **jainshrishti24@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11UFJxGAhD0yIgf1kVVhD3nWv9XRZ1mL-/view?usp=sharing](https://drive.google.com/file/d/11UFJxGAhD0yIgf1kVVhD3nWv9XRZ1mL-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/14YGonOSN1-8U_rlIb4nxjMbDNvRciZ81/view?usp=sharing](https://drive.google.com/file/d/14YGonOSN1-8U_rlIb4nxjMbDNvRciZ81/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
