@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrishti Jain</h1>
 <h3 align="center">A tech enthusiast and a learner from India</h3>
 
-- 🌱 I’m currently learning **ML/DL and ReactJS**
+- 🌱 I’m currently learning **ML/DL and NLP**
 
 - 📫 How to reach me **jainshrishti24@gmail.com**
 
