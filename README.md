@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **ML/DL and NLP**
 
-- 📫 How to reach me **jainshrishti24@gmail.com**
+- 📫 How to reach me **shrishti.jain024@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14YGonOSN1-8U_rlIb4nxjMbDNvRciZ81/view?usp=sharing](https://drive.google.com/file/d/14YGonOSN1-8U_rlIb4nxjMbDNvRciZ81/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/14YGonOSN1-8U_rlIb4nxjMbDNvRciZ81/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
