@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shrishti Jain</h1>
-<h3 align="center">A tech enthusiast and a learner from India</h3>
+<h3 align="center">Crafting data stories & building data pipelines — a curious mind from India 🛠️📊</h3>
 
-- 🌱 I’m currently learning **ML/DL and NLP**
+- 🌱 **Data Analyst by role, Data Engineer by curiosity** — continuously upskilling 📊→⚙️ 🚀 | Currently diving deep into **Python, SQL, PySpark, and Cloud platforms**. Always learning, always building!**
 
 - 📫 How to reach me **shrishti.jain024@gmail.com**
 
