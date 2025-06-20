@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **shrishti.jain024@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/14YGonOSN1-8U_rlIb4nxjMbDNvRciZ81/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1afz_aNNWN0gasfS7f52buFNJdQ8Zg_sc/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
